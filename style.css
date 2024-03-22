@@ -14,6 +14,11 @@
     src: url(EditorialNew-Light.ttf);
 }
 
+@font-face {
+    font-family: gilroy;
+    src: url(Gilroy-SemiboldItalic.otf);
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -1163,6 +1168,12 @@ color: #C4BCB2;
 
 #pp{
     margin-top: -10px;
+}
+
+#responsive{
+    width: 0vw;
+    height: 0vh;
+    background: #C4BCB2;
 }
 
 @-webkit-keyframes slide {

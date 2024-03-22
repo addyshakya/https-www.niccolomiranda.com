@@ -1,0 +1,18 @@
+@media (max-width: 500px){
+    #main{
+        display: none;
+    }
+
+    #responsive{
+        width: 100vw;
+        height: 100vh;
+        background: #C4BCB2;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #responsive>h3{
+        font-family: gilroy;
+    }
+}
